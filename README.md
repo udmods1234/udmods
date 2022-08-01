@@ -5,14 +5,14 @@
 
 ----
 
-## I Am 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞
+## I Am 💞Queen UD 💞
 
 
 
 ----
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=5550&color=F749F3&width=500&height=60&lines=Hi+Friends+...;I'm+QUEEN+ASHIYA+...;Sri+Lankan+World+Best+Whatsapp+BOT+...;Create+By+%3A-++Ishan+Sandeepa+...)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=5550&color=F749F3&width=500&height=60&lines=Hi+Friends+...;I'm+QUEEN+UD+...;Sri+Lankan+World+Best+Whatsapp+BOT+...;Create+By+%3A-++SL+UD+...)](https://git.io/typing-svg)
 
 
 
@@ -28,7 +28,7 @@
          2.) Heraku Acount එකක්.
 
 
-* ✏️ මුලින්ම ඔයා Git Hub එකට Log වෙලා ඉන්න ඊට පස්සෙ QUEEN-ASHIYA-MD   Frock කර ගන්න...
+* ✏️ මුලින්ම ඔයා Git Hub එකට Log වෙලා ඉන්න ඊට පස්සෙ QUEEN-UD-MD   Frock කර ගන්න...
 
 * ✏️ ඊට පස්සෙ ඔයා ඔයාගේ  Whtsapp එකෙන් Qr එක Scan කරන්න... ඊට පස්සෙ ඔයාගෙ නම්බරෙන්, ඔයාටම Massege එකක් එයි..ඒ Document එකක්.. ඒ තමයි ඔයාගෙ Session එක... 
 
@@ -42,7 +42,7 @@
 ---- 
 
 <p align="center">
-<img src="https://i.ibb.co/NpQ4LLq/image-2022-07-27-194311803.png" alt="nz" width="450"/>
+<img src="https://telegra.ph/SL-UDBOT-08-01" alt="nz" width="450"/>
 </p>
 
 
@@ -83,10 +83,10 @@
 
 
 
-<b><details><summary>𝐐𝐔𝐄𝐄𝐍 𝐀𝐒𝐇𝐈𝐘𝐀 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐖𝐞𝐛𝐬𝐢𝐭𝐞</summary><br>
+<b><details><summary>UD MODS𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐖𝐞𝐛𝐬𝐢𝐭𝐞</summary><br>
 	
 
-[```🎀  𝒞𝐿𝐼𝒞𝒦 𝐻𝐸𝑅𝐸  🎀```](https://sites.google.com/view/queen-ashiya/home)
+[```🎀  𝒞𝐿𝐼𝒞𝒦 𝐻𝐸𝑅𝐸  🎀```](https://sl-ud-mods.yolasite.com/)
 
 </details>
 
@@ -98,7 +98,7 @@
 
 *  ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/94786746412"><img src="https://img.shields.io/badge/Contact Mr.Ishan Sandeepa-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/94704638406"><img src="https://img.shields.io/badge/Contact SL UD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a /><br>
 </p>
 
@@ -116,7 +116,7 @@
 	
 ## License  
 
-@ Ishan Sandeepa .....
+@UDMODS.....
 
 
 ----
