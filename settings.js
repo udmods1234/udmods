@@ -22,25 +22,25 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['94786746412'] //your owner number
-global.premium = ['94786746412'] //your Owner number in menu msg
-global.ownernomer = '94786746412' //your owner number info
+global.owner = ['94704638406'] //your owner number
+global.premium = ['94704638406'] //your Owner number in menu msg
+global.ownernomer = '94704638406' //your owner number info
 
-global.ownername = 'Ishan Sandeepa' //your owner name
-global.botname = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞' //your bot name    // ඔයා බොට්ගේ නම නම් වෙනස් කලාට වැඩක් නෑ... බොට්ගේ නම ( 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞 ) තමයි...
-global.footer = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞' 
+global.ownername = 'SL UD' //your owner name
+global.botname = '💞Queen UD 💞 ' //your bot name    // ඔයා බොට්ගේ නම නම් වෙනස් කලාට වැඩක් නෑ... බොට්ගේ නම ( 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞 ) තමයි...
+global.footer = '💞Queen UD 💞' 
 
-global.ig = 'https://github.com/ishansandeepa757' //Github Account!
+global.ig = 'https://sl-ud-mods.yolasite.com/' //Github Account!
 global.region = 'Sri Lanka'
-global.sc = 'https://github.com/ishansandeepa757'
-global.myweb = 'https://www.youtube.com/c/SinhanadaMusicRemix' //your chanal link
-global.packname = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞'
+global.sc = 'https://sl-ud-mods.yolasite.com/'
+global.myweb = 'https://youtube.com/channel/UC4eIQOT9JdznytsprIUhE-w' //your chanal link
+global.packname = '💞Queen UD 💞'
 
-global.alivemsgimage = 'https://wallpaperaccess.com/full/3008776.jpg' // ඔයාගේ Alive massege එකට වැටෙන්න ඕන image එකක Link එකක් මෙතනට දෙන්න...
+global.alivemsgimage = 'https://telegra.ph/SL-UDBOT-08-01' // ඔයාගේ Alive massege එකට වැටෙන්න ඕන image එකක Link එකක් මෙතනට දෙන්න...
 
 global.chatbotpre = "true"
 
-global.author = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- 𝘐𝘴𝘩𝘢𝘯 𝘚𝘢𝘯𝘥𝘦𝘦𝘱𝘢'
+global.author = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- SL UD'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']                          // 👈 මේවා ඔයාට ඕන විදියට වෙනස් කර ගන්න \\ 
 global.sp = '⭔'
