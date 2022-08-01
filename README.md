@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/3M1pzNm/Ashiya.jpg" alt="nz" width="400"/>
+<img src="https://telegra.ph/SL-UDBOT-08-01" alt="nz" width="400"/>
 </p>
 
 
