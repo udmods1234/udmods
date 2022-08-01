@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://ibb.co/cQbRT4y.png" alt="nz" width="400"/>
+<a href="https://ibb.co/cQbRT4y"><img src="https://i.ibb.co/DQGmK01/SL-UD-Bot.png" alt="SL-UD-Bot" border="0" /></a>
 </p>
 
 
